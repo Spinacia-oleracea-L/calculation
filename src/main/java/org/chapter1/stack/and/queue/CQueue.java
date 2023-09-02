@@ -2,6 +2,10 @@ package org.chapter1.stack.and.queue;
 
 import java.util.Stack;
 
+/***
+ * LeetCode
+ * 剑指 Offer 09. 用两个栈实现队列
+ */
 class CQueue {
     private Stack<Integer> stackPush;
     private Stack<Integer> stackPop;
